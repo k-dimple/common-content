@@ -1,7 +1,7 @@
 .. _home:
 
-Common Content!! 
-================
+Common Content Updated!! 
+========================
 
 
 **Ubuntu is the world’s most popular cloud operating system across public clouds.** 
